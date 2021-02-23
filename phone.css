@@ -1,0 +1,72 @@
+#home{
+height: 260%;
+}
+#home ::before{
+    height: 63%;
+    width: 100%;}
+#home p{
+        font-size: 0.5rem;
+    }
+
+#navbar ul li{
+    list-style: none;
+    font-size: 0.5rem;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#primary {
+    font-size: 0.9rem;
+    padding: 0px 0px;
+    margin: 22px 0px;
+   
+}
+#navbar ul li a {
+    color: rgb(245, 8, 8);
+    display: block;
+    padding: 33px 8px;
+    margin: 7px 12px;
+    text-decoration: none;
+}
+.btn {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 10px;  
+}
+.secondary {
+    font-size: 1.5rem;
+    padding: 6px;
+    margin: 27px;
+    display: flex;
+    justify-content: center;
+}
+#logo img {
+    margin: -33px -33px -25px -19px;
+    height: 66px;
+    width: 76px
+}
+#services{
+flex-direction: column;
+}
+#services {
+    flex-direction: column;
+    
+}
+#client .heading {
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#client img{
+    height: 57px;
+    width: 273px;
+    display: flex;
+    padding: 0px;
+
+}
+#contact{
+
+}
+#footer{
+
+}
